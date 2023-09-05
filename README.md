@@ -1,2 +1,2 @@
 # ClayFF_Fe
-ClayFF with Fe parameters
+ClayFF parameters for GROMACS with addidtional Fe parameters
